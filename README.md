@@ -2,7 +2,7 @@
 ￼
 
 
-xmodel.h5
+model_script.py
 
 Overview
 This model script has been trained by a large data set contains 120 different classes.
